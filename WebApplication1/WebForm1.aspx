@@ -11,6 +11,7 @@
     <form id="form1" runat="server">
     <div>
         Hello
+        Bonjour
     </div>
     </form>
 </body>
